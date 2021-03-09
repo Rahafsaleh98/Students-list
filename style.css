@@ -1,0 +1,29 @@
+*{
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+}
+header{
+    color: rgba ( 96 , 96 , 96 ,0 .6);
+    text-align: right;
+    margin-left: -20px;
+    position: absolute;
+    width: 100%;
+    
+
+}
+
+
+form{
+    text-align: center;
+}
